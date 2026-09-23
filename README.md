@@ -1,5 +1,11 @@
 # BlockScanners
 
+<p align="center">
+  <a href="https://oftcer.com"><img src="https://img.shields.io/badge/site-oftcer.com-111111?style=flat-square" alt="oftcer.com" /></a>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+</p>
+
 Ferramenta de segurança para **Windows / VPS** que bloqueia no Firewall do Windows os ranges de IP usados por scanners públicos da internet.
 
 **oftcer** · [oftcer.com](https://oftcer.com)
