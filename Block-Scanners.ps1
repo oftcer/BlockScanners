@@ -8,7 +8,8 @@
   Shodan, Censys, Shadowserver, BinaryEdge e ZoomEye.
 
 .NOTES
-  Author : oftceretc
+  Author : oftcer
+  Site   : https://oftcer.com
   Project: BlockScanners
 #>
 
@@ -16,7 +17,7 @@ $ErrorActionPreference = "Stop"
 
 Write-Host ""
 Write-Host "  BlockScanners" -ForegroundColor Cyan
-Write-Host "  by oftceretc" -ForegroundColor DarkGray
+Write-Host "  oftcer — https://oftcer.com" -ForegroundColor DarkGray
 Write-Host ""
 Write-Host "[+] Aplicando regras de bloqueio no Firewall do Windows..." -ForegroundColor Yellow
 

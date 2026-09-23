@@ -1,5 +1,5 @@
 @echo off
-:: BlockScanners launcher — by oftceretc
+:: BlockScanners launcher — oftcer — https://oftcer.com
 :: Eleva para Administrador e aplica as regras de firewall.
 
 setlocal
@@ -24,7 +24,7 @@ if %ERRORLEVEL% neq 0 (
 )
 
 echo.
-echo  BlockScanners — by oftceretc
+echo  BlockScanners — oftcer — https://oftcer.com
 echo.
 powershell -NoProfile -ExecutionPolicy Bypass -File "%~dp0%SCRIPT%"
 set "EXITCODE=%ERRORLEVEL%"

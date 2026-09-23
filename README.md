@@ -2,7 +2,7 @@
 
 Ferramenta de segurança para **Windows / VPS** que bloqueia no Firewall do Windows os ranges de IP usados por scanners públicos da internet.
 
-**by oftceretc** · [github.com/oftcer](https://github.com/oftcer)
+**oftcer** · [oftcer.com](https://oftcer.com)
 
 ---
 
@@ -101,7 +101,7 @@ Ranges de IP de scanners podem mudar com o tempo — revise e atualize a lista q
 
 ## Autor
 
-**oftceretc**
+**oftcer** · [oftcer.com](https://oftcer.com)
 
 Projeto: BlockScanners  
 Licença: MIT
